@@ -1,19 +1,38 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Senior Software Engineer
+- company: BravoLT
+  position: Senior Software Engineer
+  duration: March, 2021 &mdash; Present
+  summary: Below are the day-to-day activities.<ul class="resume-item-list">
+  <li>Working in Agile Methodology on User Stories for each sprint</li>
+  <li>Develop C# (.Net Core – 6/8)/C++/ Java applications, Informatica Workflows and Webservice Developments based on EDI transactions like 834/837/835/820/277/276/270/271/999/997</li>
+  <li>Developing AWS Cloud based API application using C# which runs in API Gateway, AWS Lambda, SQS and DynamoDB for Member enrollments to load data in FACETS. CloudWatch is used to monitor the logs</li></ul>
+  <li>Developed Oracle stored procedures, triggers, tables, views, and managed custom batch jobs in the existing system</li>
+  <li>Plan development modules and take ownership of developing complex modules and educate team in good coding skills by setting an example by implementing them in the complex logic being built</li>
+  <li>Review coding standards and check performance on all deliverables</li>
+  <li>Take care of all the release process and take responsibility for produ</li>
+  <li>Coordinate with other teams during release and ensure 100% impact-free delivery</li>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
+# Product Specialist
+- company: Cognizant Technology Solutions US Corp. Ltd
+  position: Product Specialist
+  duration:  Dec, 2016 &mdash; Mar, 2021
   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
+# Product Specialist
+- company: Cognizant Technology Solutions India Pvt. Ltd
+  position: Product Specialist
+  duration:   Jun, 2014  &mdash; Dec, 2016
+  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
+# Junior Product Specialist
+- company: Cognizant Technology Solutions India Pvt. Ltd
+  position: Junior Product Specialist
+  duration:   Mar, 2012  &mdash; Jun, 2014
+  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+# Software Developer
+- company: Cognizant Technology Solutions India Pvt. Ltd
+  position: Junior Product Specialist
+  duration:   Oct, 2010  &mdash; Mar, 2012
   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.

@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Kingslee Dominic Savio Velu"
+resume_title:                   "Senior Software Engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "kingslee_ds@yahoo.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "515-779-1728"
+resume_contact_address:         "Torrance, California"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "515-779-1728 • kingslee_ds@yahoo.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Highly motivated software professional with diverse experience on different SDLC, Facets implementation, .Net Core(6/8), Windows Form, MAUI, ASP.NET, MVC, C++, C#, Informatica 10.4.1, SQL programming, and EDI in the Healthcare industry for 13 years. Salesforce Platform I Developer, Salesforce Certified Administrator, Salesforce Certified Platform App Builder & Programming in C#, Azure Fundamentals Certified, AWS Certified Developer, AWS Certified Solutions Architect – Associate Certified</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
