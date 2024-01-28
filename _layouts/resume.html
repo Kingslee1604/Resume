@@ -99,7 +99,7 @@
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
-      <section class="content-section">
+      <!--<section class="content-section">
         <header class="section-header">
           <h2>Projects</h2>
         </header>
@@ -113,26 +113,26 @@
         </div>
         {% endfor %}
 
-      </section>
+      </section>-->
       <!-- end Projects -->
       {% endif %}
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
+      {% if site.resume_section_technicalexpertise %}
+      <!-- begin technicalexpertise -->
       <section class="content-section">
 
         <header class="section-header">
           <h2>Technical Expertise</h2>
         </header>
-        {% for skill in site.data.skills %}
+        {% for technicalexpertise in site.data.technicalexpertise %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <h4 class="resume-item-details">{{ technicalexpertise.TechnicalExpertise }}</h4>
+          <p class="resume-item-copy">{{ technicalexpertise.description }}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Skills -->
+      <!-- end technicalexpertise -->
       {% endif %}
 
       {% if site.resume_section_recognition %}
