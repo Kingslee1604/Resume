@@ -3,15 +3,7 @@
 - company: BravoLT
   position: Senior Software Engineer
   duration: March, 2021 &mdash; Present
-  summary: Below are the day-to-day activities.<ul class="resume-item-list">
-  <li>Working in Agile Methodology on User Stories for each sprint</li>
-  <li>Develop C# (.Net Core – 6/8)/C++/ Java applications, Informatica Workflows and Webservice Developments based on EDI transactions like 834/837/835/820/277/276/270/271/999/997</li>
-  <li>Developing AWS Cloud based API application using C# which runs in API Gateway, AWS Lambda, SQS and DynamoDB for Member enrollments to load data in FACETS. CloudWatch is used to monitor the logs</li></ul>
-  <li>Developed Oracle stored procedures, triggers, tables, views, and managed custom batch jobs in the existing system</li>
-  <li>Plan development modules and take ownership of developing complex modules and educate team in good coding skills by setting an example by implementing them in the complex logic being built</li>
-  <li>Review coding standards and check performance on all deliverables</li>
-  <li>Take care of all the release process and take responsibility for produ</li>
-  <li>Coordinate with other teams during release and ensure 100% impact-free delivery</li>
+  summary: Below are the day-to-day activities.<ul class="resume-item-list"><li>Working in Agile Methodology on User Stories for each sprint</li><li>Develop C# (.Net Core – 6/8)/C++/ Java applications, Informatica Workflows and Webservice Developments based on EDI transactions like 834/837/835/820/277/276/270/271/999/997</li><li>Developing AWS Cloud based API application using C# which runs in API Gateway, AWS Lambda, SQS and DynamoDB for Member enrollments to load data in FACETS. CloudWatch is used to monitor the logs</li></ul><li>Developed Oracle stored procedures, triggers, tables, views, and managed custom batch jobs in the existing system</li><li>Plan development modules and take ownership of developing complex modules and educate team in good coding skills by setting an example by implementing them in the complex logic being built</li><li>Review coding standards and check performance on all deliverables</li><li>Take care of all the release process and take responsibility for produ</li><li>Coordinate with other teams during release and ensure 100% impact-free delivery</li>
 
 # Product Specialist
 - company: Cognizant Technology Solutions US Corp. Ltd
