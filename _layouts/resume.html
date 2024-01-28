@@ -200,15 +200,11 @@
         <header class="section-header">
           <h2>Certification Achievements</h2>
         </header>
-
+        {% for technicalexpertise in site.data.technicalexpertise %}
         <div class="resume-item">
           <h3 class="resume-item-details">Details</h3>
-          <ul class="resume-item-list">
-            {% for link in site.data.links %}
-            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
-            {% endfor %}
-          </ul>
         </div>
+        {% endfor %}
       </section>
       <!-- end Links -->
       {% endif %}
