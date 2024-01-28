@@ -1,12 +1,24 @@
 # Technical Expertise
-# Organizational leadership
+# Programming Languages
 - TechnicalExpertise: Programming Languages
   description: .Net Core 6/8,MAUI,WF, WPF, WCF, ASP.NET MVC 4/5, C#, Apex Classes, Apex Trigger, Lightning, C++, JAVA, PL/SQL.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Web Technologies
+- TechnicalExpertise: Web Technologies
+  description: JavaScript, Visual Force, HTML5, XML, XAML, Asp.Net, Web API, WCF, React, TypeScript, Angular 12.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Database, Tools & Technologies
+- TechnicalExpertise: Database, Tools & Technologies
+  description: NoSQL, SQL Server 2019, SQL Profiler, Query Analyzer, Oracle19, Sybase 15.1.
+
+# Products
+- TechnicalExpertise: Products
+  description: Trizetto – Facets (Health Care) & IBM – WTX (EDI Tool), Informatica 10.4.1, Salesforce.
+
+# IDE
+- TechnicalExpertise: IDE
+  description: Developer Console, Eclipse - Force.com, Visual Studio Code, Visual Studio 2022, IntelliJ.
+
+# Build & Version Control Tools
+- TechnicalExpertise: Build & Version Control Tools
+  description: Visual Studio Git, AWS Code Commit, Bit Bucket, Git, SourceTree, Jenkins, TFS, Tortoise SVN and Serena PVCS/ JIRA.
