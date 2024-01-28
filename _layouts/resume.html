@@ -136,23 +136,21 @@
       {% endif %}
 
       {% if site.resume_section_recognition %}
-      <!-- begin Recognition -->
-      <!--<section class="content-section">
+      <!-- begin Certification Achievements -->
+      <section class="content-section">
 
         <header class="section-header">
-          <h2>Recognition</h2>
+          <h2>Certification Achievements </h2>
         </header>
 
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <h3 class="resume-item-title" itemprop="name">{{ certification.name }}</h3>
         </div>
         {% endfor %}
 
-      </section>-->
-      <!-- end Recognition -->
+      </section>
+      <!-- end Certification Achievements -->
       {% endif %}
 
       {% if site.resume_section_associations %}
