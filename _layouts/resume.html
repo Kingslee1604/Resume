@@ -202,13 +202,13 @@
         </header>
 
         <div class="resume-item">
+          <h3 class="resume-item-details">Details</h3>
           <ul class="resume-item-list">
             {% for link in site.data.links %}
             <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
             {% endfor %}
           </ul>
         </div>
-
       </section>
       <!-- end Links -->
       {% endif %}
